@@ -1,6 +1,6 @@
 <h1 align="center">CHALLENGE DATA SCIENCE #2</h1>
 
-<p align="center"><strong><em>Programa de especialización de la formación ORACLE NEX EDUCATION en conjunto con ALURA LATAM</em></strong></p>
+<p align="center"><strong><em>Programa de especialización de la formación de Data Science por parte de ORACLE NEX EDUCATION en conjunto con ALURA LATAM</em></strong></p>
 
 Proyecto desarrollado en Google Colab, en donde se forma parte del proyecto "Churn de Clientes" de TelecomX LATAM. 
 La empresa enfrenta una alta tasa de cancelaciones y necesita comprender los factores que llevan a la pérdida de clientes, debido a ello,
