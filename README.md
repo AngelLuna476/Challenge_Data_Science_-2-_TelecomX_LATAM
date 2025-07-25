@@ -43,6 +43,11 @@ A partir del análisis, el equipo de Data Science podrá avanzar en modelos pred
 
 ---
 
-## Licencias:
-- Diseño y propuesta de solución del challenge por: José Ángel Luna Delgado.
-- El material con el cual se trabajo es parte del programa de formación de la especialización de Data Science dado por ALURA LATAM / ONE.
+## Licencias y uso:
+
+- _Esta libreta está basada en contenido educativo de Alura Latam y Oracle Next Education, y se utiliza exclusivamente con fines de aprendizaje personal y sin fines comerciales._
+> * _Contenido educativo: Los materiales aquí utilizados son propiedad de sus respectivos autores y están referenciados con fines pedagógicos._
+
+> * _Derechos de autor: Se respeta la propiedad intelectual de Alura Latam y Oracle Next Education. Si eres representante de estas instituciones y deseas que se modifique o retire contenido, por favor contáctame._
+
+> * _Uso del repositorio: Este repositorio puede servir como referencia para otros estudiantes en formación, pero no debe ser utilizado para actividades comerciales ni ser presentado como producto original en procesos académicos o profesionales._
